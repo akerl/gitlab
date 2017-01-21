@@ -1,10 +1,17 @@
+## Fork info
+
+This is a fork of the upstream gitlab gem to cut a new release, as the latest upstream release doesn't support Ruby 2.4.0. The only changes I've made:
+
+* Settings Gitlab::VERSION to 4.0.0
+* Updating badge icons to not point to upstream project
+* Set gemspec name to "gitlab-akerl"
+* Added a .prospectus file to track deps
+
 # Gitlab
 
-[![Build Status](https://img.shields.io/travis/NARKOZ/gitlab.svg?style=flat)](https://travis-ci.org/NARKOZ/gitlab)
-[![Code Climate](https://img.shields.io/codeclimate/github/NARKOZ/gitlab.svg?style=flat)](https://codeclimate.com/github/NARKOZ/gitlab)
-[![Inline docs](http://inch-ci.org/github/NARKOZ/gitlab.svg?style=flat)](https://inch-ci.org/github/NARKOZ/gitlab)
-[![Gem version](https://img.shields.io/gem/v/gitlab.svg?style=flat)](https://rubygems.org/gems/gitlab)
-[![License](https://img.shields.io/badge/license-BSD-red.svg?style=flat)](https://github.com/NARKOZ/gitlab/blob/master/LICENSE.txt)
+[![Gem Version](https://img.shields.io/gem/v/basiccache.svg)](https://rubygems.org/gems/basiccache)
+[![Dependency Status](https://img.shields.io/gemnasium/akerl/basiccache.svg)](https://gemnasium.com/akerl/basiccache)
+[![License](https://img.shields.io/badge/license-BSD-green.svg)](https://github.com/akerl/gitlab/blob/master/LICENSE.txt)
 
 [website](http://narkoz.github.io/gitlab) |
 [documentation](http://rubydoc.info/gems/gitlab/frames) |
