@@ -9,8 +9,8 @@ This is a fork of the upstream gitlab gem to cut a new release, as the latest up
 
 # Gitlab
 
-[![Gem Version](https://img.shields.io/gem/v/basiccache.svg)](https://rubygems.org/gems/basiccache)
-[![Dependency Status](https://img.shields.io/gemnasium/akerl/basiccache.svg)](https://gemnasium.com/akerl/basiccache)
+[![Gem Version](https://img.shields.io/gem/v/gitlab-akerl.svg)](https://rubygems.org/gems/gitlab-akerl)
+[![Dependency Status](https://img.shields.io/gemnasium/akerl/gitlab.svg)](https://gemnasium.com/akerl/gitlab)
 [![License](https://img.shields.io/badge/license-BSD-green.svg)](https://github.com/akerl/gitlab/blob/master/LICENSE.txt)
 
 [website](http://narkoz.github.io/gitlab) |
